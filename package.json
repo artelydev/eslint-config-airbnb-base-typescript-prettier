@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airbnb-base-typescript-prettier",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "description": "Airbnb's *base* ESLint config with TypeScript and Prettier support",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier"
+    "url": "https://github.com/artelydev/eslint-config-airbnb-base-typescript-prettier"
   },
   "engines": {
     "node": ">=10"
@@ -22,15 +22,15 @@
     "prettier"
   ],
   "author": {
-    "name": "Yaroslav Casper",
+    "name": "Yaroslav Kasperovych",
     "email": "ilovewindows96@gmail.com",
-    "url": "https://github.com/cxsper"
+    "url": "https://github.com/cxspxr"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier/issues"
+    "url": "https://github.com/artelydev/eslint-config-airbnb-base-typescript-prettier/issues"
   },
-  "homepage": "https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier#readme",
+  "homepage": "https://github.com/artelydev/eslint-config-airbnb-base-typescript-prettier#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.7.0",
     "@typescript-eslint/parser": "^4.7.0",
