@@ -4,9 +4,6 @@
 
 Airbnb's [**base**](https://www.npmjs.com/package/eslint-config-airbnb-base) ESLint config with TypeScript and Prettier support.
 
-[Always up-to-date](https://github.com/wei/pull) with it's
-[upstream](https://github.com/toshi-toma/eslint-config-airbnb-typescript-prettier).
-
 # How to use
 Install `typescript`, `eslint` and `prettier`, `eslint-config-airbnb-base-typescript-prettier` and put it into your `.eslintrc.js`.
 
