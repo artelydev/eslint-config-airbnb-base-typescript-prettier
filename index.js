@@ -10,7 +10,7 @@ module.exports = {
     "prettier",
     "prettier/@typescript-eslint",
   ],
-  plugins: ["jsx-a11y", "import", "prettier", "@typescript-eslint"],
+  plugins: ["import", "prettier", "@typescript-eslint"],
   globals: {},
   rules: {
     // prettier
